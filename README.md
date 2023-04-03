@@ -18,7 +18,8 @@ flashlight: edited the fov and distance of the flashlight
 
 WebGL URL: https://charlie6543.github.io/UnityBasics/2d_flashlight/Build/index.html
 
-Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/Tilemaps/TilemapsScreenshot.PNG
+Screenshot: 
+![flashlight ss](/UnityBasics/2d_flashlight/Build/unitybasicsflashlight.JPG?raw=true "flashlight ss")
 
 
 
